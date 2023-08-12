@@ -1,4 +1,5 @@
-# This is a demo for [MS2A]Source-Free Domain Adaptation via Multimodal Space Anchored Alignment submitted to AAAI-2024, under review.
+# This is a demo for [MS2A]Source-Free Domain Adaptation via Multimodal Space Anchored Alignment 
+##submitted to AAAI-2024, under review.
 
 ### Get Started
 
@@ -10,4 +11,4 @@
 
 - [Trained-model](https://drive.google.com/file/d/19bfAx2yajdqbVxA2Rk9HM9ynn2yU6hSm/view?usp=sharing)
 
-3.Then follow **demo.ipynb** to evaluation the trained-model.
+3. Then follow **demo.ipynb** to evaluation the trained-model.
