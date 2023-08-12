@@ -1,5 +1,5 @@
 # This is a demo for [MS2A]Source-Free Domain Adaptation via Multimodal Space Anchored Alignment 
-##submitted to AAAI-2024, under review.
+## submitted to AAAI-2024, under review.
 
 ### Get Started
 
